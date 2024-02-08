@@ -24,7 +24,7 @@ const createBtn = document.querySelector(".btn");
 
      inputBox.className = "input-box"
      inputBox.setAttribute("contenteditable", "true")
-     img.src = "../Notes App/images/delete.jpg"
+     img.src = "images/delete.jpg"
      notesContainer.appendChild(inputBox).appendChild(img)
 
      })
